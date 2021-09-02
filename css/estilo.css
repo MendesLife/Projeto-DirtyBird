@@ -1,0 +1,482 @@
+header{
+    background-color: #FCECEF;
+}
+
+#headnav{
+    background-color: #FCECEF;
+}
+
+#ativo{
+    color: #B8553F !important;
+}
+
+#headnav ul{
+    margin-top: 30px;
+}
+
+#headnav a{
+ font-family: 'Black Han Sans', sans-serif;
+ font-size: 24px;
+ color: #3D2F2F;
+ margin-left: 40px;
+}
+
+#headnav a:hover{
+    text-decoration: underline;
+}
+
+#botao1{
+    width: 150px;
+    height: 40px;
+    border: 2px solid #B8553F;
+    border-radius: 30px;
+    box-sizing: border-box;
+    font-family:'Bebas Neue', cursive; 
+    color: #B8553F;
+    background: rgba(241, 235, 235, 0);
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 50px;
+
+}
+
+#botaopequeno{
+    background-image: url("menubutton.png");
+    color: black;
+
+}
+
+#banner{
+    background-color: #FCECEF;
+    padding-top:100px;
+}
+
+#banner h1{
+    font-size: 250px;
+    font-family:'Bebas Neue', cursive;
+    margin-top: -50px;
+    color: #B8553F;
+    margin-left: -10px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#banner h2{
+    font-size: 102px;
+    font-family:'Bebas Neue', cursive;
+    margin-top: -65px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+#banner h3{
+    font-size: 56px;
+    font-family:'Bebas Neue', cursive;
+    color: #B8553F;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#banner h4{
+    padding-top: 50px;
+    font-size: 26px;
+    font-family:'Bebas Neue', cursive;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#banner span{
+    color: #B8553F;
+}
+
+#banner p{
+    margin-top: -15px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#quadradodiv{
+    margin-top: -250px;
+   margin-left: 1400px;
+}
+
+#quadrado{
+    width: 350px;
+height: 300px;
+
+background: #C12E0E;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+}
+
+#quadrado h4{
+    color: white;
+    text-align: center;
+    font-family:'Bebas Neue', cursive;
+    font-size: 40px;
+}
+
+#quadrado h5{
+    padding-top: 30px;
+    color: rgba(255, 255, 255, 0.56);
+    font-family:'Bebas Neue', cursive;
+    font-size: 32px;
+    text-align: center;
+}
+
+#quadrado span{
+    color: white;
+    text-align: center;
+    font-family:'Bebas Neue', cursive;
+    font-size: 32px;
+}
+
+#laranja{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #C12E0E;
+    height: 200px;
+}
+
+#laranjaesquerda h2{
+    font-size: 36px;
+    padding-top: 70px;
+    font-family:'Bebas Neue', cursive;
+    color: white;
+}
+
+#laranjadireita h3{
+    font-size: 30px;
+    padding-top: 75px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 255, 255, 0.54);  
+}
+
+#menudiv{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+
+#tracinho{
+    width: 112px;
+height: 0px;
+
+border: 4px solid #000000;
+}
+
+#menudiv span{
+    color: #C12E0E;
+
+}
+
+#menudiv h1{
+    font-family:'Bebas Neue', cursive;
+    font-size: 60px;
+}
+
+#menudiv h2{
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.54);
+
+}
+
+#card1{
+    width: 332px;
+height: 507px;
+
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+}
+
+#card1 h5{
+    font-family:'Bebas Neue', cursive;
+    color: #B8553F;
+    font-size: 24px;
+}
+
+#valor{
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+#preco{
+    padding-top: 3px;
+}
+
+#card1 h3{
+    font-family:'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 36px;
+
+}
+
+#card1 p{
+    margin-left: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.54);
+
+    
+}
+
+#card1 h4{
+    font-family:'Bebas Neue', cursive;
+    font-size: 18px;
+    color: #B8553F;
+}
+
+#viewmenu{
+    padding-left: 150px;
+    padding-top: 70px;
+}
+
+#seta{
+    margin-top: -5px;
+    margin-left: -70px;
+}
+
+#textodiv{
+    padding-left: 50px;
+}
+
+#card2{
+    margin-top: 150px;
+    width: 332px;
+height: 507px;
+
+
+background: #C12E0E;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+}
+
+#meio{
+    padding-top: 100px;
+}
+
+#fala{
+    margin-bottom: -100px;
+}
+
+#card2 h5{
+    font-family:'Bebas Neue', cursive;
+    color: white;
+    font-size: 24px;
+}
+
+
+#card2 h3{
+    font-family:'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 36px;
+    color: white;
+
+}
+
+#card2 p{
+    margin-left: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.54);
+
+    
+}
+
+#card2 h4{
+    font-family:'Bebas Neue', cursive;
+    font-size: 18px;
+    color: white;
+}
+
+#card3{
+    margin-top: 300px;
+    width: 332px;
+height: 507px;
+
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px;
+}
+
+#card3 h5{
+    font-family:'Bebas Neue', cursive;
+    color: #B8553F;
+    font-size: 24px;
+}
+
+
+#card3 h3{
+    font-family:'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 36px;
+
+}
+
+#card3 p{
+    margin-left: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.54);
+
+    
+}
+
+#card3 h4{
+    font-family:'Bebas Neue', cursive;
+    font-size: 18px;
+    color: #B8553F;
+}
+
+#foodtruck{
+    background-color: #000000;
+    background-image:url("../imagens/image\ 8.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 1000px;
+}
+
+#foodtruck h1{
+    padding-top: 200px;
+    font-family:'Bebas Neue', cursive;
+    font-size: 200px;
+    color: #B8553F;
+}
+
+#foodtruck h2{
+    margin-top: -300px;
+    font-family:'Bebas Neue', cursive;
+    font-size: 90px;
+    color: white;
+}
+
+#about{
+    padding-bottom: 100px;
+}
+
+#aboutesquerda{
+    padding-top: 150px;
+}
+
+#aboutesquerda span{
+    color: #C12E0E;
+
+}
+
+#aboutesquerda h1{
+    font-family:'Bebas Neue', cursive;
+    font-size: 60px;
+}
+
+#aboutesquerda p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    color: rgba(0, 0, 0, 0.54);
+
+}
+
+#aboutesquerda button{
+    width: 150px;
+    height: 40px;
+    margin-top:60px;
+    border: 2px solid #B8553F;
+    border-radius: 30px;
+    box-sizing: border-box;
+    font-family:'Bebas Neue', cursive; 
+    color: rgba(193, 46, 14, 1);
+    background: rgba(241, 235, 235, 0);
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#aboutdireita{
+    padding-top: 200px;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    height: 300px;
+    background-color: #C12E0E;
+}
+
+#redes{
+    padding-top: 30px;
+    text-align: center;
+}
+
+#twitter{
+padding-left: 200px;
+}
+
+#facebook{
+    display: inline-block;
+
+}
+
+#instagram{
+    padding-right: 200px;
+}
+
+#barra{
+    margin-top: 30px;
+    width: 93px;
+height: 0px;
+
+
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+footer ul{
+    list-style: none;
+    font-family:'Bebas Neue', cursive;
+    text-align: center;
+}
+
+footer li{
+    display: inline-block;
+    padding-left: 40px;
+    padding-top: 100px;
+    font-size: 24px;
+}
+
+footer li a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    color: burlywood;
+}
+
+#barrona{
+    margin-left: 140px;
+    width: 1600px;
+height: 0px;
+
+
+border: 2px solid #FFFFFF;
+}
+
+footer h1{
+    padding-top: 10px;
+    padding-left: 1450px;
+    color: white;
+    font-family:'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+#barralocal{
+    margin-top: -20px;
+    margin-left: 160px;
+    width: 67px;
+height: 0px;
+
+border: 1px solid #000000;
+}
+
+#final{
+    background-color: #C12E0E;
+}

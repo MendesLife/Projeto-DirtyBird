@@ -1,0 +1,276 @@
+header{
+    background-color: #FCECEF;
+}
+
+#headnav{
+    background-color: #FCECEF;
+}
+
+#ativo{
+    color: #B8553F !important;
+}
+
+#headnav ul{
+    margin-top: 30px;
+}
+
+#headnav a{
+ font-family: 'Black Han Sans', sans-serif;
+ font-size: 24px;
+ color: #3D2F2F;
+ margin-left: 40px;
+}
+
+#headnav a:hover{
+    text-decoration: underline;
+}
+
+#botao1{
+    width: 150px;
+    height: 40px;
+    border: 2px solid #B8553F;
+    border-radius: 30px;
+    box-sizing: border-box;
+    font-family:'Bebas Neue', cursive; 
+    color: #B8553F;
+    background: rgba(241, 235, 235, 0);
+    font-weight: bold;
+    font-size: 26px;
+    margin-left: 50px;
+
+}
+
+#botaopequeno{
+    background-image: url("menubutton.png");
+    color: black;
+
+}
+
+#banner{
+    background-color: #FCECEF;
+    padding-top:100px;
+}
+
+#banner h1{
+    font-size: 250px;
+    font-family:'Bebas Neue', cursive;
+    margin-top: -50px;
+    color: #B8553F;
+    margin-left: -10px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#banner h2{
+    font-size: 102px;
+    font-family:'Bebas Neue', cursive;
+    margin-top: -65px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+}
+
+#banner h3{
+    font-size: 56px;
+    font-family:'Bebas Neue', cursive;
+    color: #B8553F;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#banner h4{
+    padding-top: 50px;
+    font-size: 26px;
+    font-family:'Bebas Neue', cursive;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#banner span{
+    color: #B8553F;
+}
+
+#banner p{
+    margin-top: -15px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#localiza{
+    padding-top: 100px;
+    background-color: #FCECEF;
+}
+
+#barra1{
+    margin-top: 100px;
+    width: 201px;
+    height: 0px;
+    border: 1px solid #B8553F;
+}
+
+#localiza h1{
+    color: #B8553F;
+    text-align: center;
+    font-family:'Bebas Neue', cursive;
+    font-size: 200px;
+}
+
+#informa{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #FCECEF;
+}
+
+#barra2{
+    margin-top: 100px;
+    width: 201px;
+    height: 0px;
+    border: 1px solid #B8553F;
+}
+
+#contato h1{
+    padding-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#contato span{
+    font-family:'Bebas Neue', cursive;
+    color: #B8553F;
+    font-size: 48px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#borda{
+    padding-right: 15px;
+width: 1000px;
+height: 764px;
+background: rgba(184, 85, 63, 0.65);
+border-radius: 25px;
+
+}
+
+#mapa iframe{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+width: 990px;
+height: 750px;
+}
+
+#facebook1{
+margin-left: -75px;
+}
+
+#instagram1{
+margin-left: -75px;
+}
+
+#formulario{
+    padding-top: 100px;
+    background-color: #FCECEF;
+    padding-bottom: 200px;
+}
+
+#texto{
+    padding-top: 20px;
+}
+
+#nome{
+    border-radius: 30px;
+}
+
+#sobrenome{
+    border-radius: 30px;
+}
+
+#bota1{
+    margin-left: 390px;
+    margin-top: 30px;
+    width: 140px;
+height: 67px;
+
+
+background: rgba(214, 167, 167, 0.63);
+border: 2px solid #B8553F;
+box-sizing: border-box;
+border-radius: 30px;
+color: #B8553F;
+font-family:'Bebas Neue', cursive;
+font-size: 35px;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    height: 400px;
+    background-color: #C12E0E;
+}
+
+#redes{
+    
+    padding-top: 30px;
+    text-align: center;
+}
+
+#twitter{
+padding-left: 200px;
+}
+
+#facebook{
+    display: inline-block;
+
+}
+
+#instagram{
+    padding-right: 200px;
+}
+
+#barra{
+    margin-top: 30px;
+    width: 93px;
+height: 0px;
+
+
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+footer ul{
+    list-style: none;
+    font-family:'Bebas Neue', cursive;
+    text-align: center;
+}
+
+footer li{
+    display: inline-block;
+    padding-left: 40px;
+    padding-top: 100px;
+    font-size: 24px;
+}
+
+footer li a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    color: burlywood;
+}
+
+#barrona{
+    margin-left: 140px;
+    width: 1600px;
+height: 0px;
+
+
+border: 2px solid #FFFFFF;
+}
+
+footer h1{
+    padding-top: 10px;
+    padding-left: 1450px;
+    color: white;
+    font-family:'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+#final{
+    background-color: #C12E0E;
+}
