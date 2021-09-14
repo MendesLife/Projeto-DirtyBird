@@ -10,6 +10,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Black+Han+Sans&family=Roboto&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.js"></script>
+<script src="script/formscript.js"></script>
     <title>Projeto Integrador Local</title>
 </head>
 <body>
@@ -108,21 +111,23 @@
         <div id="barra2" class="col-md-1"></div>
         <div class="col-md-1"></div>
     </div>
+    <form id="form1">
     <div id="formulario" class="row">
         <div class="col-md-3"></div>
         <div class="col-md-3">
-          <input id="nome" type="text" class="form-control" placeholder="First name" aria-label="First name">
+          <input id="nome" name="nome" type="text" class="form-control" placeholder="First name" aria-label="First name" >
         </div>
         <div class="col-md-3">
-          <input id="sobrenome" type="text" class="form-control" placeholder="Last name" aria-label="Last name">
+          <input id="sobrenome" name="sobrenome" type="text" class="form-control" placeholder="Last name" aria-label="Last name" >
         </div>
         <div class="col-md-3"></div>
         <div class="col-md-3"></div>
         <div id="texto" class="col-md-6">
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="10" placeholder="Message"></textarea>
+            <textarea class="form-control" name="texto1" id="exampleFormControlTextarea1" rows="10" placeholder="Message" ></textarea>
             <button id="bota1" class="col-md-5 btn btn-primary" type="submit">Send</button>
       </div>
     </div>
+</form>
     <div id="final" class="row">
       <footer>
         <div id="redes" class="row">
